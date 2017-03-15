@@ -11,6 +11,7 @@ The [original English version](http://jpapa.me/ngstyles) is the source of truth,
   1. [Macedonian](mk-MK.md) by [Aleksandar Bogatinov](https://github.com/Bogatinov)
   1. [Portuguese-Brazil](pt-BR.md) by [Vinicius Sabadim Fernandes](https://github.com/vinicius-sabadim)
   1. [Russian](ru-RU.md) by [Vasiliy Mazhekin](https://github.com/mazhekin)
+  1. [Romanian](ro-RO.md) by [Iuliu Vișovan](https://github.com/iuliuvisovan)
   1. [Simplified Chinese](zh-CN.md) by [Zhao Ke](https://github.com/natee)
   1. [Spanish](es-ES.md) by [Alberto Calleja](https://github.com/AlbertoImpl) and [Gilberto](https://github.com/ingilniero)
   1. [Korean](ko-KR.md) by [Youngjae Ji](https://github.com/zirho)
